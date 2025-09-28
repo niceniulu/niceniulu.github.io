@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "full name": "Lu Niu",
+    "Nationality": "Chinese",
+    "label": "Climate Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "lu.niu@awi.de",
+    "phone": "+49(471)4831-1873",
+    "url": "https://niceniulu.github.io",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -22,15 +22,81 @@
       }
     ]
   },
+  "education": [
+    {
+      "institution": "Faculty of Physics/Electrical Engineering, University of Bremen",
+      "location": "Bremen, Germany",
+      "url": "",
+      "area": "Environmental physics",
+      "studyType": "Dr. rer. nat. (Doctor of Philosophy, Ph.D.)",
+      "startDate": "2015-10-12",
+      "endDate": "2019-12-21",
+      "score": "",
+      "courses": ["The role of the atmosphere on Northern Hemisphere ice sheet evolution during the late Pleistocene. (Supervisor: Prof. Dr. Gerrit Lohmann"]
+    },
+    {
+      "institution": "Dept. of Meteorology, College of Physical and Environmental Oceanography, Ocean University of China",
+      "location": "Qingdao, China",
+      "url": "",
+      "area": "Meteorology",
+      "studyType": "Master of Science (M.Sc.)",
+      "startDate": "2012-09-01",
+      "endDate": "2015-06-01",
+      "score": "",
+      "courses": ["China Freezing Rain Genesis Potential Index and the decadal variation of freezing rain. (Supervisor: Prof. Dr. Fei Huang, Prof. Dr. Guofu Wang)"]
+    },
+    {
+      "institution": "Dept. of Meteorology, College of Physical and Environmental Oceanography, Ocean University of China",
+      "location": "Qingdao, China",
+      "url": "",
+      "area": "Atmospheric Science",
+      "studyType": "Bachelor of Science (B.Sc.)",
+      "startDate": "2008-09-01",
+      "endDate": "2012-06-01",
+      "score": "",
+      "courses": ["Analysis of the relationship between the winter temperature anomalies in Bohai Sea, Yellow Sea and East China Sea and the global preceding SST. (Supervisor: Prof. Dr. Jilin Sun)"]
+    }
+  ],
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Section of Paleoclimate dynamics, Alfred Wegener Institute Helmholtz Centre for Polar and Marine Research (AWI)",
+      "location": "Bremerhaven, Germany",
+      "position": "Postdoctoral researcher",
+      "url": "https://www.awi.de/en/",
+      "startDate": "2020-01-01",
+      "endDate": "2023-12-31",
+      "summary": "Palmod Phase II",
+      "highlights": ["WP1.1 Deglaciation and future"]
+    },
+    {
+      "name": "Section of Paleoclimate dynamics, Alfred Wegener Institute Helmholtz Centre for Polar and Marine Research (AWI)",
+      "location": "Bremerhaven, Germany",
+      "position": "Postdoctoral researcher",
+      "url": "https://www.awi.de/en/",
+      "startDate": "2024-01-01",
+      "endDate": "",
+      "summary": "Palmod Phase III",
+      "highlights": ["WP1.2 Glacial climate variability"]
+    },
+    {
+      "name": "National Climate Center",
+      "location": "Beijing, China",
+      "position": "Visting student",
+      "url": "",
+      "startDate": "2013-09-01",
+      "endDate": "2015-01-01",
+      "summary": "",
+      "highlights": [""]
+    },
+    {
+      "name": "Shanghai Meteorological Service",
+      "location": "Shanghai, China",
+      "position": "Internship",
+      "url": "",
+      "startDate": "2014-07-01",
+      "endDate": "2014-07-31",
+      "summary": "",
+      "highlights": [""]
     }
   ],
   "volunteer": [
@@ -45,19 +111,7 @@
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
+
   "awards": [
     {
       "title": "Nobel Prize in Physics",
