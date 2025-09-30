@@ -23,26 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "dropdown-projects",
-              title: "Projects",
+        },{id: "dropdown-research",
+              title: "Research",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/projects/";
-              },
-            },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
+                window.location.href = "/research/";
               },
             },{id: "post-a-post-with-plotly-js",
         
