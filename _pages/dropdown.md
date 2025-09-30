@@ -5,12 +5,15 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: Projects
-    permalink: /projects/
-  - title: divider
-  - title: bookshelf
-    permalink: /books/
-  - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: Research
+    permalink: /research/
+
+ # - title: divider
+
+  # - title: Bookshelf    #  Projects  blog
+#  permalink: /books/  # /projects/   /blog/
+
+#  - title: blog    #  Projects  blog
+#    permalink: /blog/
+
 ---

@@ -5,10 +5,8 @@
       value: Lu Niu
     # - name: Date of Birth
     #   value: 17th March 1990
-    - name: Gender
-      value: Female
-    - name: Nationality
-      value: Chinese
+    - name: Born
+      value: 1990 in <a href="https://en.wikipedia.org/wiki/Zibo">Zibo</a>, China
 
 
 - title: Education
@@ -74,13 +72,13 @@
       #   -
 
     - year: 2020
-      title: 2020 Open Fund of the Key Laboratory of Marine Environmental Science and Numerical Modeling, Ministry of Natural Resources
-            (自然资源部海洋环境科学与数值模拟重点实验室2020年度开放基金) (CO-PI)
+      title: 2020 Open Fund of the Key Laboratory of Marine Environmental Science and Numerical Modeling, Ministry of Natural Resources, China (CO-PI)
+            # (自然资源部海洋环境科学与数值模拟重点实验室2020年度开放基金)
       items:
-        - Projection on Greenland Ice Sheet melting in 21st century and its potential impact on the Arctic climate system (21世纪格陵兰冰盖预测及其对北极气候系统的影响) (2020.08-2022.07)
+        - Projection on Greenland Ice Sheet melting in 21st century and its potential impact on the Arctic climate system #(21世纪格陵兰冰盖预测及其对北极气候系统的影响) (2020.08-2022.07)
 
 
-- title: Conferences and Workshops
+- title: Conferences and Workshops (selected)
   type: nested_list  #time_table
   contents:
             # year:
@@ -151,9 +149,9 @@
           - Atmospheric data analysis course, August 2013 - September 2013, in College of Physical and Environmental Oceanography, Ocean University of China, Qingdao, China
           - Atmospheric data analysis course, March 2013 - June 2013, in College of Physical and Environmental Oceanography, Ocean University of China, Qingdao, China
 
-    - title: Summer School
-      items:
-          - Karthaus Summerschool on Ice and Glaciers in the Climate System, 12-23 September 2017, Karthaus, Italy
+    # - title: Summer School
+    #   items:
+    #       - Karthaus Summerschool on Ice and Glaciers in the Climate System, 12-23 September 2017, Karthaus, Italy
 
 # - title: Other Interests
 #   type: list
